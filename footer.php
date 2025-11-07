@@ -2,7 +2,8 @@
 						<?php
 							echo get_option('argon_footer_html');
 						?>
-						<div>Theme <a href="https://github.com/solstice23/argon-theme" target="_blank"><strong>Argon</strong></a><?php if (get_option('argon_hide_footer_author') != 'true') {echo " By solstice23"; }?></div>
+						<div>© igzark.com 版权所有 · 严禁未授权转载</div>
+						<div>Powered By WordPress. All rights reserved<a href="https://beian.miit.gov.cn" target="_blank"><strong>蜀ICP备2025161993号-1</strong></a></div>
 					</footer>
 				</main>
 			</div>
